@@ -1,0 +1,67 @@
+
+
+-------------
+  Separator
+-------------
+
+2017-07-31 12:32:52: [Main]: Automatically selecting world at [/home/www-data/MINETESTX/bin/../worlds/Rainbow]
+2017-07-31 12:32:52: ERROR[Main]: mod "mesecons_lightstone" has unsatisfied dependencies:  "dye"
+2017-07-31 12:32:52: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-07-31 12:32:57: ACTION[Main]: [crops] Loaded!
+2017-07-31 12:32:58: WARNING[Main]: [moremesecons_sayer] use_speech_dispatcher = true, but the speech dispatcher can only be used in singleplayer
+2017-07-31 12:32:59: ACTION[Main]:         .__               __                   __   
+2017-07-31 12:32:59: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-07-31 12:32:59: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-07-31 12:32:59: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-07-31 12:32:59: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-07-31 12:32:59: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-07-31 12:32:59: ACTION[Main]: World at [/home/www-data/MINETESTX/bin/../worlds/Rainbow]
+2017-07-31 12:32:59: ACTION[Main]: Server for gameid="rainbow" listening on 0.0.0.0:30005.
+2017-07-31 12:33:02: ACTION[Server]: IRC: Connected!
+2017-07-31 12:33:02: ACTION[Server]: IRC CHAT: -!- RAINBOW-testing-30005 joined #minetestservers
+2017-07-31 12:33:02: ACTION[Server]: IRC CHAT: <NWARGEERG@PLAY-30001> HEEEEELP
+2017-07-31 12:33:30: ACTION[Server]: IRC CHAT: *** Nigel joined PLAY-30001
+2017-07-31 12:33:59: ACTION[Server]: IRC CHAT: <Nigel@PLAY-30001> whats wrong?
+2017-07-31 12:34:27: ACTION[Server]: IRC CHAT: *** 4567u joined PLAY-30001
+2017-07-31 12:34:41: ACTION[Server]: IRC CHAT: <NWARGEERG@PLAY-30001> uos the sword
+2017-07-31 12:34:45: ACTION[Server]: IRC CHAT: <tspidi@PLAY-30001> ubej evo
+2017-07-31 12:34:49: ACTION[Server]: IRC CHAT: *** 4567u left PLAY-30001
+2017-07-31 12:34:55: ACTION[Server]: IRC CHAT: <Nigel@PLAY-30001> NWARGEERG... whats wrong?
+2017-07-31 12:35:18: ACTION[Server]: IRC CHAT: <CITY2@IRC> *** Henderson1389 left the game (Timed out)
+2017-07-31 12:35:21: ACTION[Server]: IRC CHAT: <NWARGEERG@PLAY-30001> I'm trap
+2017-07-31 12:35:40: ACTION[Server]: IRC CHAT: *** primezock left PLAY-30001
+2017-07-31 12:36:03: ACTION[Server]: IRC CHAT: <BabyDiana@RAINBOW> traps are pretty
+2017-07-31 12:36:07: ACTION[Server]: IRC CHAT: *** Roszel566 joined CITY2
+2017-07-31 12:36:22: ACTION[Server]: IRC CHAT: <Nigel@PLAY-30001> ok buddy?
+2017-07-31 12:36:22: ACTION[Server]: IRC CHAT: *** bi left CITY2
+2017-07-31 12:36:53: ACTION[Server]: IRC CHAT: <NWARGEERG@PLAY-30001> thanks
+2017-07-31 12:36:54: ACTION[Server]: IRC CHAT: <BabyDiana@RAINBOW> I live by a hospital
+2017-07-31 12:37:04: ACTION[Server]: IRC CHAT: <BabyDiana@RAINBOW> And every day I go out walking past its sickly windows
+2017-07-31 12:37:13: ACTION[Server]: IRC CHAT: <BabyDiana@RAINBOW> I see people dying there
+2017-07-31 12:37:21: ACTION[Server]: IRC CHAT: *** primezock joined PLAY-30001
+2017-07-31 12:37:25: ACTION[Server]: IRC CHAT: *** Nigel left PLAY-30001
+2017-07-31 12:37:56: ACTION[Server]: IRC CHAT: *** georget joined CITY2
+2017-07-31 12:38:03: ACTION[Server]: IRC CHAT: *** Nigel joined PLAY-30001
+2017-07-31 12:38:24: ACTION[Server]: IRC CHAT: *** 4567u joined PLAY-30001
+2017-07-31 12:38:25: ACTION[Server]: IRC CHAT: *** primezock left PLAY-30001
+2017-07-31 12:39:13: ACTION[Server]: IRC CHAT: *** bjorn left CITY2
+2017-07-31 12:39:13: ACTION[Server]: IRC CHAT: <PLAY-30001@IRC> *** 4567u left the game (Timed out)
+2017-07-31 12:39:18: ACTION[Server]: IRC CHAT: <RAINBOW@IRC> *** Anthony left the game (Timed out)
+2017-07-31 12:39:45: ACTION[Server]: IRC CHAT: *** Nigel left PLAY-30001
+2017-07-31 12:40:05: ACTION[Server]: IRC CHAT: *** primezock joined PLAY-30001
+2017-07-31 12:40:10: ACTION[Server]: IRC CHAT: *** georget left CITY2
+2017-07-31 12:40:13: ACTION[Server]: Nigel [10.0.0.2] joins game. 
+2017-07-31 12:40:13: ACTION[Server]: Nigel joins game. List of players: Nigel
+2017-07-31 12:40:14: ACTION[Server]: Showing formspec to Nigel
+2017-07-31 12:40:33: ACTION[Server]: IRC CHAT: *** bjorn joined CITY2
+2017-07-31 12:40:41: ACTION[Server]: IRC CHAT: *** Anthony joined RAINBOW
+2017-07-31 12:40:56: ACTION[Server]: Nigel places node mesecons_noteblock:noteblock at (597,62,324)
+2017-07-31 12:41:02: ACTION[Server]: Nigel digs mesecons_noteblock:noteblock at (597,62,324)
+2017-07-31 12:41:33: ACTION[Server]: CHAT: <Nigel> Anthony, i have moremesecons working on the test server ;-)
+2017-07-31 12:41:50: ACTION[Server]: CHAT: <Nigel> trying for pipeworks now...
+2017-07-31 12:42:17: ACTION[Server]: IRC CHAT: <Anthony@RAINBOW> nice, im soting thew missing parts of the towers in fortress rock
+2017-07-31 12:42:30: ACTION[Server]: CHAT: <Nigel> cool.
+2017-07-31 12:42:37: ACTION[Server]: CHAT: <Nigel> here i go again...
+2017-07-31 12:42:39: ACTION[Server]: Nigel leaves game. List of players: 
+2017-07-31 12:42:46: [Main]: INFO: signal_handler(): Ctrl-C pressed, shutting down.
+2017-07-31 12:42:46: ACTION[Main]: IRC: Disconnected.
